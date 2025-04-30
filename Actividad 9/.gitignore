@@ -1,0 +1,46 @@
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# JavaFX build folders
+/bin/
+/out/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IntelliJ
+*.swp
+*.swo
+
+# VS Code
+*.code-workspace
+
+# Backup files
+*~
